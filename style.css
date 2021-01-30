@@ -1,0 +1,40 @@
+body {
+    background-color: floralwhite;
+    text-align: center;
+}
+
+div {
+    margin-top: 15px;
+}
+
+.image-section {
+    display: flex;
+    justify-content: center;
+}
+
+.section-style {
+    margin-right: 25px;
+    margin-left: 25px;
+    background-color: cadetblue;
+        
+}
+
+#image1 {
+    width: 450px;
+    height: 400px;
+}
+
+#image2 {
+    width: 450px;
+    height: 400px;
+}
+
+#image3 {
+    width: 450px;
+    height: 400px;
+}
+
+#image4 {
+    width: 450px;
+    height: 400px;
+}
